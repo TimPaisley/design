@@ -1,6 +1,6 @@
 # Number Station
 
-####A 3D _point-and-click_ adventure set in the 1970s where the player assumes the role of a secret service agent to decipher incoming messages.
+#### A 3D _point-and-click_ adventure set in the 1970s where the player assumes the role of a secret service agent to decipher incoming messages.
 
 ## Story
 
@@ -36,6 +36,6 @@ All in-game music is diegetic radio noise - either a secret station which the pl
 
 ### Papers, Please
 
-###Keep Talking and Nobody Explodes
+### Keep Talking and Nobody Explodes
 
-###The Hitchhiker's Guide to the Galaxy
+### The Hitchhiker's Guide to the Galaxy
